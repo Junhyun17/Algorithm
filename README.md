@@ -5,3 +5,4 @@
 ## language
 - HTML, CSS
 - js
+- python
