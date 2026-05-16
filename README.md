@@ -6,3 +6,4 @@
 - HTML, CSS
 - js
 - python
+- shell_script
